@@ -1,6 +1,6 @@
 # HTML local en nueva pestaña para Chromium
 
-extensión para Chromium que permite usar un HTML local para usar como nueva pestaá / homepage.
+extensión para Chromium que permite usar un HTML local para usar como nueva pestaña / homepage.
 
 ![](static/img/screenshot.png)
 
