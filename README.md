@@ -2,13 +2,14 @@
 
 extensión para Chromium que permite usar un HTML local para usar como nueva pestaá / homepage.
 
+![](static/img/screenshot.png)
 
 ## Contents
 
 - [instalación](#instalación)
-- [personalizar página](#personalizar página)
-- [detalles técnicos](#detalles técnicos)
-- [repo original](#repo original)
+- [personalizar página](#personalizar-página)
+- [detalles técnicos](#detalles-técnicos)
+- [repo original](#repo-original)
 
 ## instalación
 
